@@ -1,2 +1,2 @@
 This is a uat file
-uat commit 3
+uat comit 3
